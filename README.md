@@ -1,2 +1,1 @@
-# public-api-documentation
-Public API OpenAPI Documentation
+# Dashlane Public API Documentation
