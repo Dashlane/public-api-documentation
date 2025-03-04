@@ -19,7 +19,9 @@ With the Dashlane Public API, you can:
 
 ## Getting Started
 
-To begin using the Dashlane Public API, follow these steps:
+To access the Dashlane Public API endpoints, you'll need an API key. This key can be generated in two ways: directly through the [Dashlane Admin Console](https://support.dashlane.com/hc/en-us/articles/23955544757266-Dashlane-public-API) or the Dashlane CLI.
+
+Follow these steps to use the CLI:
 
 1. **Install the Dashlane CLI**  
    Download and [install the Dashlane CLI](https://cli.dashlane.com/install) on your machine.
@@ -66,7 +68,7 @@ Dashlane provides an **OpenAPI 3.0 specification** to help you explore and utili
 
 ## Managing API Keys
 
-You can manage your API keys directly from the Dashlane CLI:
+You can manage your API keys from the [Dashlane Admin Console](https://support.dashlane.com/hc/en-us/articles/23955544757266-Dashlane-public-API) or from the Dashlane CLI:
 
 -   **List All API Keys:**
 
